@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sooraj-Sudhakaran1?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Sooraj-Sudhakaran1?label=Total%20Stars&style=for-the-badge&color=cc0066&logo=github&logoColor=white" alt="Stars" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sooraj-Sudhakaran1&theme=dracula" height="150" alt="Overall Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sooraj-Sudhakaran1&theme=dracula" height="150" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sooraj-Sudhakaran1&theme=dracula" height="150" alt="Most Commit Language" />
 </p>
 
 ---
