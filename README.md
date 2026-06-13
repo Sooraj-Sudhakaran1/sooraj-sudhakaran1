@@ -1,11 +1,9 @@
-<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto:cyberpunk&height=250&section=header&text=SOORAJ%20S&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:purple,1:cyan,2:magenta,3:blue&height=250&section=header&text=SOORAJ%20S&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
-<!-- SUBTITLE & INTRO ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ffcc&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Aspiring+Security+Analyst;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=d400ff&center=true&vCenter=true&width=600&lines=🟣 Purple Teamer;🛡️ Aspiring Cybersecurity Engineer;🔍 Security Analyst" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,3 +24,6 @@
 │  🛡️ Focused on understanding complex digital systems and securing them.  │
 │  🧠 Continuously learning data structures, OS, and network security.     │
 └──────────────────────────────────────────────────────────────────────────┘
+```
+
+---
