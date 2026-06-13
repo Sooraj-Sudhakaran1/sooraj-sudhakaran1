@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=d400ff&background=1a1a1a00&center=true&vCenter=true&width=600&lines=🟣 Purple Teamer;🛡️ Aspiring Cybersecurity Engineer;🔍 Security Analyst" alt="Typing SVG" />
+  <samp>
+    <b>🟣 Purple Teamer</b> • 
+    <b>🛡️ Aspiring Cybersecurity Engineer</b> • 
+    <b>🔍 Security Analyst</b>
+  </samp>
 </p>
 
 <p align="center">
@@ -14,19 +18,11 @@
 
 ---
 
-### 🌌 Profile
+### 🌌 About Me
 
-```text
-┌───────────────────────────────────────────────────────────┐
-│  SOORAJ S  |  Tech & Cybersecurity Explorer               │
-├───────────────────────────────────────────────────────────┤
-│                                                           │
-│  Hello World!                                             │
-│                                                           │
-│  🛡️ Focused on understanding complex digital systems and   │
-│     securing them.                                        │
-│                                                           │
-│  🧠 Continuously learning data structures, OS, and        │
-│     network security.                                     │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+👋 **Hello World!** I'm Sooraj, a passionate Tech & Cybersecurity Explorer dedicated to breaking down complex systems and building robust defenses.
+
+* **🛡️ Core Focus:** Analyzing digital architecture, identifying vulnerabilities, and securing enterprise networks.
+* **🧠 Current Deep Dives:** Advanced Data Structures, Operating System internals, and Network Security protocols.
+
+---
