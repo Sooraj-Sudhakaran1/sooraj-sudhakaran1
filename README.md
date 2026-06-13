@@ -6,7 +6,7 @@
   <samp>
     <b>🟣 Purple Teamer</b> • 
     <b>🛡️ Aspiring Cybersecurity Engineer</b> • 
-    <b>🔍 Security Analyst</b>
+    <b>🔍 Security Researcher</b>
   </samp>
 </p>
 
