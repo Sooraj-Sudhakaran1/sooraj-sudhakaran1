@@ -23,6 +23,6 @@
 👋 **Hello World!** I'm Sooraj, a passionate Tech & Cybersecurity Explorer dedicated to breaking down complex systems and building robust defenses.
 
 * **🛡️ Core Focus:** Analyzing digital architecture, identifying vulnerabilities, and securing enterprise networks.
-* **🧠 Current Deep Dives:** Advanced Data Structures, Operating System internals, and Network Security protocols.
+* **🧠 Current Deep Dives:** Digital Forensics, VAPT, Threat Intelligence, Advanced Data Structures, Operating System internals, and Network Security protocols.
 
 ---
